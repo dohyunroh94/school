@@ -1,0 +1,94 @@
+/*
+proj1.css       
+Decription:     
+Style sheet for proj1.html
+and popup window for proj1
+ */
+
+/* 
+These just make the application
+background and looks generally
+more visually appealing. 
+CornflowerBlue was chosen
+as it is soothing to the eye. 
+Comic Sans for both the title 
+and the current action messages
+were chosen as kids typically like
+more silly and messy fonts. 
+*/
+body {
+	
+	background-color: CornflowerBlue;
+	
+}
+
+#title1{
+	
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+	
+}
+
+#user{
+	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	
+}
+
+/*
+Changes the button colors to 
+yellow and green. Yellow and 
+green were chosen as kids typically 
+know that yellow means ready (or yield)
+and green means go. The buttons log in
+and play match those colors very well.
+Also, they were made bigger as kids 
+like bigger, more colorful buttons
+and avoid the boring looking ones.
+
+*/
+#b4{
+	
+	background-color: yellow;
+	font-size: 30px;
+}
+
+#b5{
+	
+	background-color: green;
+	font-size: 30px;
+	
+}
+
+
+/* 
+
+This part is for making the table more 
+colorful and structured. Note that 
+this part is never accessed until 
+the popup window is created with viewStudents()
+and the call to this style sheet is written into
+the html code of the popup window. 
+For details, see the function viewStudents() in
+proj1.js
+
+*/
+
+table {
+	
+	width: 100%;
+}
+
+table, th, td {
+	
+    border: 1px solid black;
+	padding: 5px;
+    border-collapse: collapse;
+
+}
+
+th {
+	
+	background-color: blue;
+	color: white
+	
+}

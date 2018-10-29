@@ -1,0 +1,15 @@
+Dohyun Roh, Section 1
+---------- Store ----------
+Meat: 0 
+Fruit: 15 Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine
+Vegetable:  0 
+Starch: 0 
+Sweet: 0 
+---------- Orders -----------
+---------- Store ----------
+Meat: 0 
+Fruit: 15 Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine, Nectarine
+Vegetable:  0 
+Starch: 0 
+Sweet: 0 
+---------- Orders -----------
